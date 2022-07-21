@@ -1,0 +1,10 @@
+C:\Users\marka\Desktop\.net folder\Pra_no_17.vb\Pra_no_17.vb\bin\Debug\Pra_no_17.vb.exe.config
+C:\Users\marka\Desktop\.net folder\Pra_no_17.vb\Pra_no_17.vb\bin\Debug\Pra_no_17.vb.exe
+C:\Users\marka\Desktop\.net folder\Pra_no_17.vb\Pra_no_17.vb\bin\Debug\Pra_no_17.vb.pdb
+C:\Users\marka\Desktop\.net folder\Pra_no_17.vb\Pra_no_17.vb\bin\Debug\Pra_no_17.vb.xml
+C:\Users\marka\Desktop\.net folder\Pra_no_17.vb\Pra_no_17.vb\obj\Debug\Pra_no_17.vb.vbprojResolveAssemblyReference.cache
+C:\Users\marka\Desktop\.net folder\Pra_no_17.vb\Pra_no_17.vb\obj\Debug\Pra_no_17.vb.Resources.resources
+C:\Users\marka\Desktop\.net folder\Pra_no_17.vb\Pra_no_17.vb\obj\Debug\Pra_no_17.vb.vbproj.GenerateResource.Cache
+C:\Users\marka\Desktop\.net folder\Pra_no_17.vb\Pra_no_17.vb\obj\Debug\Pra_no_17.vb.exe
+C:\Users\marka\Desktop\.net folder\Pra_no_17.vb\Pra_no_17.vb\obj\Debug\Pra_no_17.vb.xml
+C:\Users\marka\Desktop\.net folder\Pra_no_17.vb\Pra_no_17.vb\obj\Debug\Pra_no_17.vb.pdb
