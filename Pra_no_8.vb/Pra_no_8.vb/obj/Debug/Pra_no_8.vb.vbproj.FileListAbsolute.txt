@@ -1,0 +1,11 @@
+C:\Users\marka\Desktop\.net folder\Pra_no_8.vb\Pra_no_8.vb\bin\Debug\Pra_no_8.vb.exe.config
+C:\Users\marka\Desktop\.net folder\Pra_no_8.vb\Pra_no_8.vb\bin\Debug\Pra_no_8.vb.exe
+C:\Users\marka\Desktop\.net folder\Pra_no_8.vb\Pra_no_8.vb\bin\Debug\Pra_no_8.vb.pdb
+C:\Users\marka\Desktop\.net folder\Pra_no_8.vb\Pra_no_8.vb\bin\Debug\Pra_no_8.vb.xml
+C:\Users\marka\Desktop\.net folder\Pra_no_8.vb\Pra_no_8.vb\obj\Debug\Pra_no_8.vb.vbprojResolveAssemblyReference.cache
+C:\Users\marka\Desktop\.net folder\Pra_no_8.vb\Pra_no_8.vb\obj\Debug\Pra_no_8.vb.Form1.resources
+C:\Users\marka\Desktop\.net folder\Pra_no_8.vb\Pra_no_8.vb\obj\Debug\Pra_no_8.vb.Resources.resources
+C:\Users\marka\Desktop\.net folder\Pra_no_8.vb\Pra_no_8.vb\obj\Debug\Pra_no_8.vb.vbproj.GenerateResource.Cache
+C:\Users\marka\Desktop\.net folder\Pra_no_8.vb\Pra_no_8.vb\obj\Debug\Pra_no_8.vb.exe
+C:\Users\marka\Desktop\.net folder\Pra_no_8.vb\Pra_no_8.vb\obj\Debug\Pra_no_8.vb.xml
+C:\Users\marka\Desktop\.net folder\Pra_no_8.vb\Pra_no_8.vb\obj\Debug\Pra_no_8.vb.pdb
