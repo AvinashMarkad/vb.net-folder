@@ -1,0 +1,10 @@
+C:\Users\marka\Desktop\.net folder\database5.java\database5.java\bin\Debug\database5.java.exe.config
+C:\Users\marka\Desktop\.net folder\database5.java\database5.java\bin\Debug\database5.java.exe
+C:\Users\marka\Desktop\.net folder\database5.java\database5.java\bin\Debug\database5.java.pdb
+C:\Users\marka\Desktop\.net folder\database5.java\database5.java\bin\Debug\database5.java.xml
+C:\Users\marka\Desktop\.net folder\database5.java\database5.java\obj\Debug\database5.java.vbprojResolveAssemblyReference.cache
+C:\Users\marka\Desktop\.net folder\database5.java\database5.java\obj\Debug\database5.java.Resources.resources
+C:\Users\marka\Desktop\.net folder\database5.java\database5.java\obj\Debug\database5.java.vbproj.GenerateResource.Cache
+C:\Users\marka\Desktop\.net folder\database5.java\database5.java\obj\Debug\database5.java.exe
+C:\Users\marka\Desktop\.net folder\database5.java\database5.java\obj\Debug\database5.java.xml
+C:\Users\marka\Desktop\.net folder\database5.java\database5.java\obj\Debug\database5.java.pdb
