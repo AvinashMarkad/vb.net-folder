@@ -1,0 +1,10 @@
+C:\Users\marka\Desktop\.net folder\Cheak_Prime_No.vb\Cheak_Prime_No.vb\bin\Debug\Cheak_Prime_No.vb.exe.config
+C:\Users\marka\Desktop\.net folder\Cheak_Prime_No.vb\Cheak_Prime_No.vb\bin\Debug\Cheak_Prime_No.vb.exe
+C:\Users\marka\Desktop\.net folder\Cheak_Prime_No.vb\Cheak_Prime_No.vb\bin\Debug\Cheak_Prime_No.vb.pdb
+C:\Users\marka\Desktop\.net folder\Cheak_Prime_No.vb\Cheak_Prime_No.vb\bin\Debug\Cheak_Prime_No.vb.xml
+C:\Users\marka\Desktop\.net folder\Cheak_Prime_No.vb\Cheak_Prime_No.vb\obj\Debug\Cheak_Prime_No.vb.vbprojResolveAssemblyReference.cache
+C:\Users\marka\Desktop\.net folder\Cheak_Prime_No.vb\Cheak_Prime_No.vb\obj\Debug\Cheak_Prime_No.vb.Resources.resources
+C:\Users\marka\Desktop\.net folder\Cheak_Prime_No.vb\Cheak_Prime_No.vb\obj\Debug\Cheak_Prime_No.vb.vbproj.GenerateResource.Cache
+C:\Users\marka\Desktop\.net folder\Cheak_Prime_No.vb\Cheak_Prime_No.vb\obj\Debug\Cheak_Prime_No.vb.exe
+C:\Users\marka\Desktop\.net folder\Cheak_Prime_No.vb\Cheak_Prime_No.vb\obj\Debug\Cheak_Prime_No.vb.xml
+C:\Users\marka\Desktop\.net folder\Cheak_Prime_No.vb\Cheak_Prime_No.vb\obj\Debug\Cheak_Prime_No.vb.pdb

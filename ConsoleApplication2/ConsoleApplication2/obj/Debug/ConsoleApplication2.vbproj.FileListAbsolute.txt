@@ -1,0 +1,10 @@
+C:\Users\marka\Desktop\.net folder\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\marka\Desktop\.net folder\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\marka\Desktop\.net folder\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\marka\Desktop\.net folder\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.xml
+C:\Users\marka\Desktop\.net folder\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\marka\Desktop\.net folder\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.Resources.resources
+C:\Users\marka\Desktop\.net folder\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.vbproj.GenerateResource.Cache
+C:\Users\marka\Desktop\.net folder\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\marka\Desktop\.net folder\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.xml
+C:\Users\marka\Desktop\.net folder\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
