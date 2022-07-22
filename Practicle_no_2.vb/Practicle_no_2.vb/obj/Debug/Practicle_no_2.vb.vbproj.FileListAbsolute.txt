@@ -1,0 +1,11 @@
+C:\Users\marka\Desktop\.net folder\Practicle_no_2.vb\Practicle_no_2.vb\obj\Debug\Practicle_no_2.vb.vbprojResolveAssemblyReference.cache
+C:\Users\marka\Desktop\.net folder\Practicle_no_2.vb\Practicle_no_2.vb\obj\Debug\Practicle_no_2.vb.Form1.resources
+C:\Users\marka\Desktop\.net folder\Practicle_no_2.vb\Practicle_no_2.vb\obj\Debug\Practicle_no_2.vb.Resources.resources
+C:\Users\marka\Desktop\.net folder\Practicle_no_2.vb\Practicle_no_2.vb\obj\Debug\Practicle_no_2.vb.vbproj.GenerateResource.Cache
+C:\Users\marka\Desktop\.net folder\Practicle_no_2.vb\Practicle_no_2.vb\bin\Debug\Practicle_no_2&3.vb.exe.config
+C:\Users\marka\Desktop\.net folder\Practicle_no_2.vb\Practicle_no_2.vb\bin\Debug\Practicle_no_2&3.vb.exe
+C:\Users\marka\Desktop\.net folder\Practicle_no_2.vb\Practicle_no_2.vb\bin\Debug\Practicle_no_2&3.vb.pdb
+C:\Users\marka\Desktop\.net folder\Practicle_no_2.vb\Practicle_no_2.vb\bin\Debug\Practicle_no_2&3.vb.xml
+C:\Users\marka\Desktop\.net folder\Practicle_no_2.vb\Practicle_no_2.vb\obj\Debug\Practicle_no_2&3.vb.exe
+C:\Users\marka\Desktop\.net folder\Practicle_no_2.vb\Practicle_no_2.vb\obj\Debug\Practicle_no_2&3.vb.xml
+C:\Users\marka\Desktop\.net folder\Practicle_no_2.vb\Practicle_no_2.vb\obj\Debug\Practicle_no_2&3.vb.pdb

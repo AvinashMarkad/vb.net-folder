@@ -1,0 +1,10 @@
+C:\Users\marka\Desktop\.net folder\Pra_select_arith.vb\Pra_select_arith.vb\bin\Debug\Pra_select_arith.vb.exe.config
+C:\Users\marka\Desktop\.net folder\Pra_select_arith.vb\Pra_select_arith.vb\bin\Debug\Pra_select_arith.vb.exe
+C:\Users\marka\Desktop\.net folder\Pra_select_arith.vb\Pra_select_arith.vb\bin\Debug\Pra_select_arith.vb.pdb
+C:\Users\marka\Desktop\.net folder\Pra_select_arith.vb\Pra_select_arith.vb\bin\Debug\Pra_select_arith.vb.xml
+C:\Users\marka\Desktop\.net folder\Pra_select_arith.vb\Pra_select_arith.vb\obj\Debug\Pra_select_arith.vb.vbprojResolveAssemblyReference.cache
+C:\Users\marka\Desktop\.net folder\Pra_select_arith.vb\Pra_select_arith.vb\obj\Debug\Pra_select_arith.vb.Resources.resources
+C:\Users\marka\Desktop\.net folder\Pra_select_arith.vb\Pra_select_arith.vb\obj\Debug\Pra_select_arith.vb.vbproj.GenerateResource.Cache
+C:\Users\marka\Desktop\.net folder\Pra_select_arith.vb\Pra_select_arith.vb\obj\Debug\Pra_select_arith.vb.exe
+C:\Users\marka\Desktop\.net folder\Pra_select_arith.vb\Pra_select_arith.vb\obj\Debug\Pra_select_arith.vb.xml
+C:\Users\marka\Desktop\.net folder\Pra_select_arith.vb\Pra_select_arith.vb\obj\Debug\Pra_select_arith.vb.pdb
