@@ -1,0 +1,11 @@
+C:\Users\marka\Desktop\.net folder\test2.vb\test2.vb\bin\Debug\test2.vb.exe.config
+C:\Users\marka\Desktop\.net folder\test2.vb\test2.vb\bin\Debug\test2.vb.exe
+C:\Users\marka\Desktop\.net folder\test2.vb\test2.vb\bin\Debug\test2.vb.pdb
+C:\Users\marka\Desktop\.net folder\test2.vb\test2.vb\bin\Debug\test2.vb.xml
+C:\Users\marka\Desktop\.net folder\test2.vb\test2.vb\obj\Debug\test2.vb.vbprojResolveAssemblyReference.cache
+C:\Users\marka\Desktop\.net folder\test2.vb\test2.vb\obj\Debug\test2.vb.Form1.resources
+C:\Users\marka\Desktop\.net folder\test2.vb\test2.vb\obj\Debug\test2.vb.Resources.resources
+C:\Users\marka\Desktop\.net folder\test2.vb\test2.vb\obj\Debug\test2.vb.vbproj.GenerateResource.Cache
+C:\Users\marka\Desktop\.net folder\test2.vb\test2.vb\obj\Debug\test2.vb.exe
+C:\Users\marka\Desktop\.net folder\test2.vb\test2.vb\obj\Debug\test2.vb.xml
+C:\Users\marka\Desktop\.net folder\test2.vb\test2.vb\obj\Debug\test2.vb.pdb
