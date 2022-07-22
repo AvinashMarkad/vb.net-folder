@@ -1,0 +1,11 @@
+C:\Users\marka\Desktop\.net folder\testdata3.vb\testdata3.vb\bin\Debug\testdata3.vb.exe.config
+C:\Users\marka\Desktop\.net folder\testdata3.vb\testdata3.vb\bin\Debug\testdata3.vb.exe
+C:\Users\marka\Desktop\.net folder\testdata3.vb\testdata3.vb\bin\Debug\testdata3.vb.pdb
+C:\Users\marka\Desktop\.net folder\testdata3.vb\testdata3.vb\bin\Debug\testdata3.vb.xml
+C:\Users\marka\Desktop\.net folder\testdata3.vb\testdata3.vb\obj\Debug\testdata3.vb.vbprojResolveAssemblyReference.cache
+C:\Users\marka\Desktop\.net folder\testdata3.vb\testdata3.vb\obj\Debug\testdata3.vb.Form1.resources
+C:\Users\marka\Desktop\.net folder\testdata3.vb\testdata3.vb\obj\Debug\testdata3.vb.Resources.resources
+C:\Users\marka\Desktop\.net folder\testdata3.vb\testdata3.vb\obj\Debug\testdata3.vb.vbproj.GenerateResource.Cache
+C:\Users\marka\Desktop\.net folder\testdata3.vb\testdata3.vb\obj\Debug\testdata3.vb.exe
+C:\Users\marka\Desktop\.net folder\testdata3.vb\testdata3.vb\obj\Debug\testdata3.vb.xml
+C:\Users\marka\Desktop\.net folder\testdata3.vb\testdata3.vb\obj\Debug\testdata3.vb.pdb
