@@ -1,0 +1,12 @@
+C:\Users\marka\Desktop\.net folder\testdata2.vb\testdata2.vb\bin\Debug\testdata2.vb.exe.config
+C:\Users\marka\Desktop\.net folder\testdata2.vb\testdata2.vb\bin\Debug\Database1.accdb
+C:\Users\marka\Desktop\.net folder\testdata2.vb\testdata2.vb\bin\Debug\testdata2.vb.exe
+C:\Users\marka\Desktop\.net folder\testdata2.vb\testdata2.vb\bin\Debug\testdata2.vb.pdb
+C:\Users\marka\Desktop\.net folder\testdata2.vb\testdata2.vb\bin\Debug\testdata2.vb.xml
+C:\Users\marka\Desktop\.net folder\testdata2.vb\testdata2.vb\obj\Debug\testdata2.vb.vbprojResolveAssemblyReference.cache
+C:\Users\marka\Desktop\.net folder\testdata2.vb\testdata2.vb\obj\Debug\testdata2.vb.Form1.resources
+C:\Users\marka\Desktop\.net folder\testdata2.vb\testdata2.vb\obj\Debug\testdata2.vb.Resources.resources
+C:\Users\marka\Desktop\.net folder\testdata2.vb\testdata2.vb\obj\Debug\testdata2.vb.vbproj.GenerateResource.Cache
+C:\Users\marka\Desktop\.net folder\testdata2.vb\testdata2.vb\obj\Debug\testdata2.vb.exe
+C:\Users\marka\Desktop\.net folder\testdata2.vb\testdata2.vb\obj\Debug\testdata2.vb.xml
+C:\Users\marka\Desktop\.net folder\testdata2.vb\testdata2.vb\obj\Debug\testdata2.vb.pdb
